@@ -1,0 +1,127 @@
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\EntityFramework.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\log4net.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\Notifications.Wpf.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.BLL.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.DAL.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.BLL.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.BLL.dll.config
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.DAL.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\ToDoList.DAL.dll.config
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\EntityFramework.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\log4net.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\App.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\AddEvent.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\AddTask.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\EditEvent.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\EditTask.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\SignInWindow.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\SignUpWindow.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\StartWindow.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\App.g.cs
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\AddEvent.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\AddTask.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\EditEvent.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\EditTask.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\MainWindow.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\SignInWindow.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\SignUpWindow.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\Views\StartWindow.baml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList\obj\Debug\ToDoList.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.exe
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\EntityFramework.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\log4net.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\Notifications.Wpf.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\System.Data.SQLite.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\System.Windows.Interactivity.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.BLL.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.DAL.dll
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.BLL.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.BLL.dll.config
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.DAL.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\ToDoList.DAL.dll.config
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\EntityFramework.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\log4net.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\bin\Debug\System.Data.SQLite.xml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\App.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\AddEvent.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\AddTask.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\EditEvent.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\EditTask.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\MainWindow.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\SignInWindow.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\SignUpWindow.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\StartWindow.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\App.g.cs
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.exe
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.pdb
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\AddEvent.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\AddTask.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\EditEvent.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\EditTask.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\MainWindow.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\SignInWindow.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\SignUpWindow.baml
+C:\Навчання\ПІ 3 курс 1 сем\ListOfTasks-master\ToDoList\obj\Debug\Views\StartWindow.baml
